@@ -154,7 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Habimana Didier Sharif - [Github](https://github.com/habimanasharif)/ [LinkedIn](https://www.linkedin.com/in/habimana-didier-sharif-ab37b1215/)
+Telma Farida [Github] (https://github.com/NerdyGF22) / [LinkedIn] (https://www.linkedin.com/in/telma-farida-19b350226/)
+Moses Bett
+
 
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
